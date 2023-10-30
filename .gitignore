@@ -1,3 +1,7 @@
+#Ignore products and pdf folders
+products/
+figures/pdf/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
